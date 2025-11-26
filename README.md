@@ -1,6 +1,6 @@
 # Two-tone Rotating Circle
 
-A simple webpage with a centered, two-tone spinning ball. Use the slider to control rotation speed in real-time.
+A simple webpage with a centered, two-tone spinning ball. Use the slider to control rotation speed in real-time. (Made with AI.)
 
 ## How to view
 
